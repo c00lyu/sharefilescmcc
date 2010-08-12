@@ -1,0 +1,4 @@
+provision ：n规定、准备 v供给
+duplex：双方的
+full duplex：全双工
+hakf duplex：半双工
