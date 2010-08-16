@@ -1,6 +1,3 @@
 ？CHAP、PAP是单向认证，PPP中双方的关系是对等的么？
 ？CHAP中，Hash（）的参数有哪些？identifier、Challenge、pwd
 ？PPP、PAP、CHAP都是在数据链路层上的协议？
-
-
-?DHCP一般过程、报文类型？
